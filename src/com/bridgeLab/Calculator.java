@@ -11,6 +11,10 @@ public class Calculator {
 		c = a + b;
 		System.out.println("Addition is c "+c);
 		
+		// UC 2
+		c = a - b;
+		System.out.println("Subtraction is c "+c);
+		
 	}
 
 }
